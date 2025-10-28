@@ -148,7 +148,11 @@ This repository collects historical notes, timelines, and references centered on
   * Mega Drive outsold SNES game by more than 2/1
 * ESRB
   * game industry established **Entertainment Software Rating Board**
- 
+
+#### Conclusion
+Nintendo kept the SNES popular by improving games with built-in upgrades, while Sega’s failed hardware add-ons hurt its reputation, leaving both companies vulnerable to a new competitor.
+
+
 ### Rise of Sony | Playstation
 #### Part 1 | Sony - Rise of Playstation
 * Nintendo-Sony deal fallout (1990–1991): Nintendo switches to Philips; Sony humiliated but gains impetus to enter console market.
