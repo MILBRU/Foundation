@@ -103,7 +103,16 @@ This repository collects historical notes, timelines, and references centered on
   * Era of Japanese dominance began
 * Super Mario Bros.
   * Technical innovation : side-scrolling
-  * 
+  * brilliant levels & inch-perfect controls
+* Zelda
+  * exploring & puzzles
+  * cartridge format
+  * built-in battery powered RAM for saving progress
+ Part 3 | SEGA
+* Introducing SEGA
+  * No succes
+* Growing pains
+  * SG-1000 MK III - faster CPU than Famicom
 
 Showed consumers were becoming more discerning, not uninterested.
 ### Rise of Sony | Playstation
