@@ -57,7 +57,7 @@ This repository collects historical notes, timelines, and references centered on
 * Atari VCS (1977): Released to compete with the VES; came with multiple controllers and a Combat cartridge; quickly outsold Fairchild and dominated the market.
 
 #### Conclusion
-**Atari Dominance:** Led the early 1980s market, but poor management and talent loss threatened quality.
+**Atari Dominance:** Led the early 1980s market, but poor management and talent loss threatened quality. Showed consumers were becoming more discerning, not uninterested.
 
 ### Console Wars
 
@@ -108,13 +108,24 @@ This repository collects historical notes, timelines, and references centered on
   * exploring & puzzles
   * cartridge format
   * built-in battery powered RAM for saving progress
- Part 3 | SEGA
+
+#### Part 3 | SEGA
+
 * Introducing SEGA
   * No succes
 * Growing pains
   * SG-1000 MK III - faster CPU than Famicom
+  * futuristic redesign
+* Sega Master System
+  * Couldn't compete quantity & quality-wise
+  * Came too late
 
-Showed consumers were becoming more discerning, not uninterested.
+#### Part 4 | The Console Wars
+* Next Gen
+  * NES - selling as well as ever
+  * Mega drive - Named "Genesis" in NA
+  * NA became SEGA's main target
+ 
 ### Rise of Sony | Playstation
 #### Part 1 | Sony - Rise of Playstation
 * Nintendo-Sony deal fallout (1990–1991): Nintendo switches to Philips; Sony humiliated but gains impetus to enter console market.
