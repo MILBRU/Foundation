@@ -61,6 +61,29 @@ This repository collects historical notes, timelines, and references centered on
 #### Conclusion
 **Atari Dominance:** Led the early 1980s market, but poor management and talent loss threatened quality.
 
+### Rise of Sony | Playstation
+#### Part 1 | Sony - Rise of Playstation
+* Nintendo-Sony deal fallout (1990–1991): Nintendo switches to Philips; Sony humiliated but gains impetus to enter console market.
+* Ken Kutaragi develops PlayStation: 3D-focused, developer-friendly architecture.
+* 1993: PlayStation (PSX) announced; strong third-party support and studios like Psygnosis acquired.
+* Early titles and strategy: Ridge Racer, Tekken, Resident Evil, Final Fantasy VII.
+* Focus on global developer relations and a software library to ease development.
+#### Part 2 | Console wars - Part 2
+* Sega Saturn: rushed, complex, expensive; 2D-focused design initially, last-minute 3D redesign.
+* 1995: PlayStation launches $299 → Sega Saturn’s poor launch and marketing blunders.
+* Tomb Raider demonstrates PS mainstream appeal; Sonic X-Treme cancelled, weakening Saturn.
+* PlayStation library broader than Saturn or N64; Nintendo’s N64 innovative but cartridge-limited.
+* Sega Dreamcast: online-capable, GD-ROM, strong launch titles (*Sonic Adventure*, *Soul Calibur*, *Jet Set Radio*).
+  * Early success, but lost momentum due to PS2 announcement; production ends 2001.
+
+#### Part 3 | End of Sega
+* Launched March 2000; backward-compatible with PS1 games.
+* DVD playback included → added consumer value.
+* USB peripheral support enabled diverse nontraditional games (Singstar, Buzz!).
+* Strong early sales, ahead of Xbox and GameCube launches.
+* Became best-selling console ever; iconic titles spanned years and defined the era.
+
+
 ## Visual technologies
 
 Notes and references on display technologies (oscilloscopes, vector displays, raster CRTs, early raster graphics hardware), input devices, and rendering techniques that shaped early game development.
