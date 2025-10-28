@@ -55,7 +55,11 @@ This repository collects historical notes, timelines, and references centered on
 
 * Atari Pong: Bushnell faced many arcade copycats, focused on original ideas, and released a simple 1974 home Pong console that popularized home gaming.
 * Next step : success led to many imitators. Atari shifted focus to microprocessors, enabling game cartridges
+* Fairchild VES (1974): Cartridge console with pause button; weak games but inspired Atari.
+* Atari VCS (1977): Released to compete with the VES; came with multiple controllers and a Combat cartridge; quickly outsold Fairchild and dominated the market.
 
+#### Conclusion
+**Atari Dominance:** Led the early 1980s market, but poor management and talent loss threatened quality.
 
 ## Visual technologies
 
