@@ -146,6 +146,8 @@ This repository collects historical notes, timelines, and references centered on
   * Extreme violence and gore - Succes and notoriety
   * made Nintendo seem out-of-touch
   * Mega Drive outsold SNES game by more than 2/1
+* ESRB
+  * game industry established **Entertainment Software Rating Board**
  
 ### Rise of Sony | Playstation
 #### Part 1 | Sony - Rise of Playstation
