@@ -33,6 +33,8 @@ This repository collects historical notes, timelines, and references centered on
   - Computer Space — one of the first commercially sold video games
 - Test → PONG — breakout arcade success
 - The era of knock-offs, clones, and rapid hardware iteration
+#### Part 3 | Home Consoles
+- Ralph Baer : Created a prototype with two light guns using photo sensors for on-screen targets
 
 ## Visual technologies
 
