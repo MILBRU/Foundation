@@ -110,6 +110,8 @@ This repository collects historical notes, timelines, and references centered on
   * built-in battery powered RAM for saving progress
 
 #### Part 3 | SEGA
+<span style="color: green;">✅ Success</span>
+<span style="color: red;">❌ Error</span>
 
 * Introducing SEGA
   * No succes
