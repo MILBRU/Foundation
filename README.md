@@ -47,7 +47,7 @@ This repository collects historical notes, timelines, and references centered on
 * Ralph Baer : Created a prototype with two light guns using photo sensors for on-screen targets
 * The Brown Box : various games on 1 console with 2 controllers
 * Magnavox Odyssey: Commercial version of the Brown Box, launched 22 May 1972 with TV overlays and extra accessories.
-  * Problems: Expensive, silent, sold with separate accessories, and misleadingly marketed as TV-exclusive.
+  * **Problems:** Expensive, silent, sold with separate accessories, and misleadingly marketed as TV-exclusive.
 
 
 
