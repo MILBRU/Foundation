@@ -80,6 +80,30 @@ This repository collects historical notes, timelines, and references centered on
 * License Magnavox odyssey for Japanese market
 * producing arcade games
 * Game and Watch - Potential of the business
+  * took inspiration from fiddling with a calculator
+  * D-pad : four buttons at the extremity of each direction
+* Radar Scope
+  * Huge succes
+  * repetitive gameplay
+  * suggestion to convert existing cabinets into new game
+  * assigned Shigeru Miyamoto
+* Miyamoto
+  * Genius at video game design
+  * designed game around popeye , deal fell through
+  * used different non-licensed characters and changed the name to **Jumpman**
+* Donkey Kong
+  * Nintendo's first videogame mega-smash
+  * Renamed "Jumpman" to **Mario**
+* Famicom
+  * Cartridge-based console
+  * Designed exclusively for playing games
+  * Circuitry problems → Recall all Famicoms
+* Nintendo Seal of Quality
+  * NA-game market was sick of playing bad games
+  * Era of Japanese dominance began
+* Super Mario Bros.
+  * Technical innovation : side-scrolling
+  * 
 
 Showed consumers were becoming more discerning, not uninterested.
 ### Rise of Sony | Playstation
