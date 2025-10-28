@@ -123,8 +123,11 @@ This repository collects historical notes, timelines, and references centered on
 #### Part 4 | The Console Wars
 * Next Gen
   * NES - selling as well as ever
-  * Mega drive - Named "Genesis" in NA
+  * SEGA Mega drive - Named "Genesis" in NA
   * NA became SEGA's main target
+* Branding 101
+  * Nintendo - children's games
+  * SEGA - the "cool" video game company
  
 ### Rise of Sony | Playstation
 #### Part 1 | Sony - Rise of Playstation
