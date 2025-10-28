@@ -68,6 +68,7 @@ This repository collects historical notes, timelines, and references centered on
 * 1993: PlayStation (PSX) announced; strong third-party support and studios like Psygnosis acquired.
 * Early titles and strategy: Ridge Racer, Tekken, Resident Evil, Final Fantasy VII.
 * Focus on global developer relations and a software library to ease development.
+
 #### Part 2 | Console wars - Part 2
 * Sega Saturn: rushed, complex, expensive; 2D-focused design initially, last-minute 3D redesign.
 * 1995: PlayStation launches $299 → Sega Saturn’s poor launch and marketing blunders.
