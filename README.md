@@ -48,8 +48,8 @@ This repository collects historical notes, timelines, and references centered on
 * The Brown Box : various games on 1 console with 2 controllers
 * Magnavox Odyssey: Commercial version of the Brown Box, launched 22 May 1972 with TV overlays and extra accessories.
   * **Problems:** Expensive, silent, sold with separate accessories, and misleadingly marketed as TV-exclusive.
-
-
+* Home Gaming
+  * **Magnavox Odyssey:** First home console; promoted at trade shows and inspired Nolan Bushnell to create broader market games.
 
 
 
