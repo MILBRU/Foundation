@@ -6,9 +6,10 @@ Table of contents
 
 * About
 * Game history
-
-  * Part 1 — Prehistoric Games
-  * Part 2 — Atari \& the Arcade Era
+  * Press Start — Video Games
+  * Console Wars
+  * Rise of Sony - Playstation
+  * Enter Microsoft
 
 * Visual technologies
 * Art history
