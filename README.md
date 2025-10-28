@@ -51,6 +51,10 @@ This repository collects historical notes, timelines, and references centered on
 * Home Gaming
   * **Magnavox Odyssey:** First home console; promoted at trade shows and inspired Nolan Bushnell to create broader market games.
 
+#### Part 4 | Atari - Console Era
+
+* Atari Pong: Bushnell faced many arcade copycats, focused on original ideas, and released a simple 1974 home Pong console that popularized home gaming.
+
 
 
 ## Visual technologies
