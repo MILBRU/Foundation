@@ -128,6 +128,24 @@ This repository collects historical notes, timelines, and references centered on
 * Branding 101
   * Nintendo - children's games
   * SEGA - the "cool" video game company
+  * Ramping up competitive advertising
+* It's a Mascot
+  * Release of **Sonic the Hedgehog**
+  * Unique gameplay
+* Sonic Time
+  * Brightly coloured sprites
+  * High speed
+  * Could withstand multiple playthroughs
+  * New pack-in title for Genesis
+* Fight!
+  * NES made Nintendo complacent
+  * Nintendo - no longer monopoly on third-party dev's
+  * SEGA partnered with EA
+* Test your might
+  * Mortal Kombat
+  * Extreme violence and gore - Succes and notoriety
+  * made Nintendo seem out-of-touch
+  * Mega Drive outsold SNES game by more than 2/1
  
 ### Rise of Sony | Playstation
 #### Part 1 | Sony - Rise of Playstation
