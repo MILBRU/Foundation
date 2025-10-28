@@ -54,7 +54,7 @@ This repository collects historical notes, timelines, and references centered on
 #### Part 4 | Atari - Console Era
 
 * Atari Pong: Bushnell faced many arcade copycats, focused on original ideas, and released a simple 1974 home Pong console that popularized home gaming.
-  
+
   success led to many imitators. Atari shifted focus to microprocessors, enabling game cartridges
 
 
