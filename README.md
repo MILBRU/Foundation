@@ -10,11 +10,8 @@ Table of contents
   * Console Wars
   * Rise of Sony - Playstation
   * Enter Microsoft
-
 * Visual technologies
 * Art history
-* Contributing
-* License
 
 ## About
 
