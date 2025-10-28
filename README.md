@@ -61,6 +61,29 @@ This repository collects historical notes, timelines, and references centered on
 #### Conclusion
 **Atari Dominance:** Led the early 1980s market, but poor management and talent loss threatened quality.
 
+### Console Wars
+
+#### Part 1 | First Video Game Crash
+
+* Too many (bad) games
+* Games were easy to duplicate → less expensive
+* Atari : licensed **Pac-Man** for the **VCS**
+  * ET - Worst game ever
+* Consoles relied on arcade conversions
+* Reasons:
+  * Oversaturated market with poor-quality
+  * outdated games.
+  * Unsold stock hurt retailers and bankrupt developers.
+  * Surviving developers made cheap $5 games.
+
+#### Part 2 | Nintendo
+
+* Started as a playing card company
+* License Magnavox odyssey for Japanese market
+* producing arcade games
+* Game and Watch - Potential of the business
+
+Showed consumers were becoming more discerning, not uninterested.
 ### Rise of Sony | Playstation
 #### Part 1 | Sony - Rise of Playstation
 * Nintendo-Sony deal fallout (1990–1991): Nintendo switches to Philips; Sony humiliated but gains impetus to enter console market.
