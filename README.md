@@ -24,11 +24,11 @@
 
 * ##### Dabney \& Bushnell : Arcade version of Spacewar!
 
-##### --> Computer Space : First comercially sold video game
+##### → Computer Space : First comercially sold video game
 
 
 
-* ##### Test --> PONG
+* ##### Test → PONG
 
 
 
