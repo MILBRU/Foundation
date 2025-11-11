@@ -201,7 +201,14 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
 * PS2 was the most succesfull console in history
 * Internet connectivity
 
-
+#### Part 3 | Internet Revolution
+* Next gen experiences became more important
+* Wii :
+  * Motion controls
+  * controller was similar to TV-Remote | Wii-mote
+  * online
+  * Wii-Sports
+  * 
 
 
 
