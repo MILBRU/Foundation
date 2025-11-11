@@ -219,7 +219,17 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
 * Steam :
   * Released by Valve
   * way to play exclusive game-updates/beta's
-
+  * New way to play games
+* Elder scrolls IV - Horse armor pack :
+  * Purely cosmetic
+* Season Pass :
+  * Originated from EA
+  * Cost as much as the game itself
+  * allowed you to access all the DLC available for that title - Paying for unreleased content
+* The witcher 3 - Good DLC pack
+* Impact :
+  Every high-profile game is expected to have additional content to roll out over the months that follow its release
+  
 
 ## Visual technologies
 
