@@ -208,6 +208,8 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
   * controller was similar to TV-Remote | Wii-mote
   * online
   * Wii-Sports
+  * Sold out everywhere after launch
+* PS3 :
   * 
 
 
