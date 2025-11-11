@@ -212,8 +212,10 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
 * PS3 :
 * Nintendo sold hardware at profit
 * first party software sold in great quantities
+* Most third-party titles were slowly becoming a thing of the past
 
-
+#### Part 4 | DLC
+* Warcraft II : Continues the story of the main game
 
 
 
