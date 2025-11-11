@@ -193,6 +193,14 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
 * Halo - Evolution of shooter games
 
 #### Part 2 | Gamecube
+* Project dolphin - Outperformed PS2 Hardware
+  * Used mini-DVD's
+* First Nintendo console to launch without a Mario title - Luigi's mansion
+* PS2's momentum became relentless
+* Games became more sophisticated & simpler
+* PS2 was the most succesfull console in history
+* Internet connectivity
+
 
 
 
