@@ -176,6 +176,14 @@ Nintendo kept the SNES popular by improving games with built-in upgrades, while 
 * Strong early sales, ahead of Xbox and GameCube launches.
 * Became best-selling console ever; iconic titles spanned years and defined the era.
 
+#### Part 4 | Playstation 2
+* Third Party support
+* Doubled up as a DVD player
+* Backwards compatible
+* Wide range of non-traditional software
+* Had the market to itself
+#### Conclusion
+PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as developers mastered its technology. Its standout games and vast library made it an iconic, unforgettable console.
 
 ## Visual technologies
 
