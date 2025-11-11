@@ -210,7 +210,8 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
   * Wii-Sports
   * Sold out everywhere after launch
 * PS3 :
-  * 
+* Nintendo sold hardware at profit
+* first party software sold in great quantities
 
 
 
