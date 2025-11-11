@@ -216,7 +216,9 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
 
 #### Part 4 | DLC
 * Warcraft II : Continues the story of the main game
-
+* Steam :
+  * Released by Valve
+  * way to play exclusive game-updates/beta's
 
 
 ## Visual technologies
