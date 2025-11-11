@@ -191,6 +191,14 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
 * DirectX Box shortened to Xbox for better marketing
 * Large for a console - First use of **hard drive**
 * Halo - Evolution of shooter games
+
+#### Part 2 | Gamecube
+
+
+
+
+
+
 ## Visual technologies
 
 Notes and references on display technologies (oscilloscopes, vector displays, raster CRTs, early raster graphics hardware), input devices, and rendering techniques that shaped early game development.
