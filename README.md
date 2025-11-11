@@ -2,7 +2,7 @@
 
 A living collection of notes and references about the history of games, visual technologies, and related art history — intended as a foundation for research, talks, or curriculum development.
 
-## Table of contents
+Table of contents
 
 * About
 * Game history
