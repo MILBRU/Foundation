@@ -153,7 +153,7 @@ This repository collects historical notes, timelines, and references centered on
 Nintendo kept the SNES popular by improving games with built-in upgrades, while Sega’s failed hardware add-ons hurt its reputation, leaving both companies vulnerable to a new competitor.
 
 
-### Rise of Sony | Playstation
+### Rise of Sony - Playstation
 #### Part 1 | Sony - Rise of Playstation
 * Nintendo-Sony deal fallout (1990–1991): Nintendo switches to Philips; Sony humiliated but gains impetus to enter console market.
 * Ken Kutaragi develops PlayStation: 3D-focused, developer-friendly architecture.
@@ -184,6 +184,10 @@ Nintendo kept the SNES popular by improving games with built-in upgrades, while 
 * Had the market to itself
 #### Conclusion
 PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as developers mastered its technology. Its standout games and vast library made it an iconic, unforgettable console.
+
+### Enter Microsoft
+#### Part 1 | Xbox
+
 
 ## Visual technologies
 
