@@ -275,7 +275,42 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
 * App store :
   * First no centralized marketplace
   * smartphones -> release of App Store
+* Angry Birds :
+  * Easy to understand
+  * Simple objectives
+  * lot's of levels
+  * played in short bursts
+* "Free" 2 Play :
+  * Large player base
+  * money made by paywalls
+* Issues :
+  * Easy to be cloned
+  * can sink without a trace
+* Big Audience :
+  * Single largest audience in the immmediate future
+  * Potential for educational apps & Companion apps
 
+#### Part 4 | Gacha
+* Gachapon :
+  * specific amount of in-game-currency to get an RNG based prize
+* Addiction :
+  * Gambling
+  * Collect & completing things
+  * banned in Japan
+  * implement safeguards - disclosing the odds of winning
+* Western Integration :
+  * Appealing and addictive feature in popular games
+* Profit :
+  * Matching consumers up with their willingness to pay
+  * Maximize producer surples -> profits
+  * Genshin Impact, PUBG mobile, Honors of Kings - Top 3 mobile games of 2021 (all gacha)
+* Microtransactions :
+  * Virtual goods (e.g. characters, costumes, weapons, ...) purchased for small price
+  * Lootboxes
+  * unfair advantage over F2P players
+ * Battlefront II:
+   * Darth vader skin - earned after an estimated 40 hours of gameplay or
+     in-game-credits purchased for money
 
 ## Visual technologies
 
