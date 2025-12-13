@@ -229,7 +229,14 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
 * The witcher 3 - Good DLC pack
 * Impact :
   Every high-profile game is expected to have additional content to roll out over the months that follow its release
-  
+
+### Handhelds
+#### Part 1 | Early Handhelds
+* Technically first : Calculator-like devices -> Microvision -> Epoch's Game Pocket Computer
+* Early Pockets :
+  * Game Boy - Nintendo
+  * Lynx - Atari
+  * Game Gear - Sega
 
 ## Visual technologies
 
