@@ -237,6 +237,9 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
   * Game Boy - Nintendo
   * Lynx - Atari
   * Game Gear - Sega
+* About the games - Game Boy :
+  * Battery life issues
+  * Cheaper & smaller than both Game Gear and Lynx
 
 ## Visual technologies
 
