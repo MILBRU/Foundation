@@ -392,7 +392,7 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
   * switching costs are weakest right when a new player signs up
   * lots of people played -> lots of people stuck around
 * Aggressive content updaate schedule - most aggressive for an MMO ever
-
+  * Blizzard mastered the **subscription** and **monetization** model
 ## Visual technologies
 
 Notes and references on display technologies (oscilloscopes, vector displays, raster CRTs, early raster graphics hardware), input devices, and rendering techniques that shaped early game development.
