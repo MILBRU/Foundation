@@ -450,7 +450,21 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
   * hero powers, shopping, tri-lane battlefield
   * World of Warcraft took over
   * Blizzard missed single-hero focus -> less accessible than RTS games
-
+* Riot :
+  * League of Legends (LoL) - Clone off DotA Allstars, freed from shackles of Warcraft III
+  * multiple heroes, tri-lane pushes, last-hitting creeps, customizable itemization - built from the ground up
+* DotA 2 VS LoL :
+  * Valve's MOBA project - inherited the DotA brand and was named Dota 2
+* F2P - BAMS Dominance :
+  * LoL launched as a F2P game
+  * publisher earns income from in-game-purchases - microtransactions
+  * microtransactions - modernized interpretation of razor&blades model
+  * high accessibility
+  * Dota 2 - First and only commercially successful MOBA after LoL
+* Dota 2 :
+  * Dota 2 - Every aspect was F2P
+  * community encentive for gamers to spend
+  * remains best-prized esport
 
 ## Visual technologies
 
