@@ -312,6 +312,21 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
    * Darth vader skin - earned after an estimated 40 hours of gameplay or
      in-game-credits purchased for money
 
+### Esports - P1
+#### Part 1 | Prologue
+* What ? :
+  * Teamwork
+  * Strategies
+  * Lot's of genre's
+* Genres :
+  * FPS - First Person Shooter
+  * Battle Royale
+  * MOBA's - Multiplayer Online Batlle Arena
+  * Collectible Card Games
+  * Fighting Games
+Why ? :
+* Backed by billion-dollar investments from Amazon, Facebook, Tencent, ...
+
 ## Visual technologies
 
 Notes and references on display technologies (oscilloscopes, vector displays, raster CRTs, early raster graphics hardware), input devices, and rendering techniques that shaped early game development.
