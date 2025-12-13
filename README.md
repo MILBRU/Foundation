@@ -465,6 +465,25 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
   * Dota 2 - Every aspect was F2P
   * community encentive for gamers to spend
   * remains best-prized esport
+* Blizzard's conclusion :
+  * accepted importance of MOBA's
+  * didn't implement monetization model that could fight against network effects and switching costs
+  * Games can't compete if it doesn't amplify SCAR factors or improves BAMS monetization
+* LCS :
+  * Legends Championship Series
+  * Closed ecosystem
+  * First esports league to introduce premium production to the west
+  * True pro structure
+
+#### Part 3 | Entertainment First
+* Project Titan :
+  * Overwatch
+  * Hero Shooter
+* GFP - Game-First Paradigm :
+  * drive sales of the game behind the sport
+  * esports are effectively a marketing expense
+  * extensions of the blades or microtransaction revenue models
+* EFP - Entertainment-First Paradigm
 
 ## Visual technologies
 
