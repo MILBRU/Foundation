@@ -324,8 +324,29 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
   * MOBA's - Multiplayer Online Batlle Arena
   * Collectible Card Games
   * Fighting Games
-Why ? :
-* Backed by billion-dollar investments from Amazon, Facebook, Tencent, ...
+* Why ? :
+  * Backed by billion-dollar investments from Amazon, Facebook, Tencent, ...
+  * Human competition is shedding its most ancient burden - the body
+  * athlete is the brain
+  * beginning of democratization of all sport
+  * hints an egalitarian culture
+* League Of Legends Finals :
+  * First time ever
+  * tangible manifestation in the Western World
+
+#### Part 2 | Arcade Era
+* Flippers : introduced the ideas of control
+* Skill :
+  * SCAR factors :
+    * Skil
+    * Community
+    * Accessibility
+    * Reward
+* First game : Pong
+* Spacewar! :
+  * Nim
+  * Tennis for two
+  * Spacewar
 
 ## Visual technologies
 
