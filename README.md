@@ -393,6 +393,65 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
   * lots of people played -> lots of people stuck around
 * Aggressive content updaate schedule - most aggressive for an MMO ever
   * Blizzard mastered the **subscription** and **monetization** model
+### Esports - P2
+#### Part 1 | Twitch
+* Justin.tv :
+  * Former name of twitch
+  * 24/7 livestream of Justin's life
+  * opened to other livecasters
+  * introduce filters
+  * gaming filter - captivated a special audience
+* Twitch :
+  * Gaming category exploded
+  * Twitch.tv
+  * fastest-growing media businesses of all time
+  * age of teh streamer had arrived
+  * Amazon stole the deal
+* Digital Native :
+  * Amazon saw twitch as a standalone business
+  * exclusively online
+  * digital-nativist experience
+* Interactive :
+  * Expanded concept of online gaming communities
+  * Introduced concept of reward
+* Prizes :
+  * Pro gaming started as a side hustle -> it needed a similar "pot of gold"
+  * Twitch chat provided a payoff
+* Donate :
+  * Users are able to donate directly to a streamer
+  * subscription as a monetization feature
+* Amount :
+  * A way to earn revenue without winning a major tournament
+  * Reliable income
+  * Subscriptions are collected monthly
+  * Allowed advertisers and sponsors
+  * Intergenerational brands like Coke and BMW joined gaming natives like Razer
+  * Becoming pro gamer -> Financial incentives & fame
+* Copycats :
+  * Facebook - Fb.gg
+  * Youtube - Youtube Gaming
+  * Microsoft - Mixer
+* Esports exploded :
+  * high complexity level
+  * community and competition
+  * accessibility
+  * rewards
+
+#### Part 2 | MOBA
+* Aeon of Strife - Starcraft :
+  * creative tool : map editor
+  * focused on controlling a single unit
+  * battle against waves of advanced enenies
+* Warcraft III :
+  * Had a map editor tool
+  * Eul permitted groups of five to play against each other
+  * Birth of mod DotA (Defence of the Ancients)
+* DotA :
+  * hero powers, shopping, tri-lane battlefield
+  * World of Warcraft took over
+  * Blizzard missed single-hero focus -> less accessible than RTS games
+
+
 ## Visual technologies
 
 Notes and references on display technologies (oscilloscopes, vector displays, raster CRTs, early raster graphics hardware), input devices, and rendering techniques that shaped early game development.
