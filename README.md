@@ -240,6 +240,9 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
 * About the games - Game Boy :
   * Battery life issues
   * Cheaper & smaller than both Game Gear and Lynx
+* Library :
+  * Both Game Gear and lynx had good games
+  * couldn't compete with quality and quantity of Game Boy software
 
 ## Visual technologies
 
