@@ -342,11 +342,46 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
     * Community
     * Accessibility
     * Reward
-* First game : Pong
-* Spacewar! :
-  * Nim
-  * Tennis for two
-  * Spacewar
+
+#### Part 3 | Atari
+
+#### Part 4 | Nintendo
+* Razor and blades :
+  * Cheap main product, expensive replacement parts
+* BAMS models :
+  * Blades
+  * Advertising & assets
+  * Microtransactions
+  * Subscriptions
+
+#### Part 5 | MMO's
+* AOL :
+  * Community
+  * business hosting multiplayer games for Commodore 64 and other first-gen consoles
+  * gateway for a new genre - MMO's
+* The MMO trinity :
+  * Ultima Online
+  * EverQuest
+  * Asheron's Call
+  * interactive digital worlds
+* Servers :
+  * The place where MMO's digital worlds persist
+  * Subscriptions
+* Subscriptions :
+  * ceased monetizing as one-time sales
+  * changed how games were designed
+  * gane devs began desinging for permanence
+
+#### Part 6 | Guilds
+* WoW (World of Warcraft) :
+  * gaming changed forever
+  * requires you to collaborate
+* LFG - Looking For Group
+  * You eventually form a guild
+* Switching cost :
+  * invest in WoW, Not transferable to a new game
+* Network Effects :
+  *  
 
 ## Visual technologies
 
