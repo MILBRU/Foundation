@@ -248,7 +248,7 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
    * Turned the Game Boy
    * Must have under a decade later
 
- #### Part 2 | Advancedd Handhelds
+#### Part 2 | Advancedd Handhelds
 * Advanced :
   * Game Boy Advance - Capabilities similar to SNES -> many ports of SNES classics
   * PlayStation Portable (PSP) - antithesis of Nintendo's technological approach
@@ -261,6 +261,21 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
 * Nintendo Switch :
   * Only PSP could reasonably called a succes
   * DS - Nintendo's greatest Triumph
+* Steam Deck :
+  * No intent to replace Nintendo Switch
+  * Experimental
+* Portable future :
+  * Asus, Ayaneo, Logitech
+  * Phone is becoming a much more serious gaming device
+
+#### Part 3 | Mobile Gaming
+* Snake :
+  * Most iconic starting point
+  * First game : variant of tetris
+* App store :
+  * First no centralized marketplace
+  * smartphones -> release of App Store
+
 
 ## Visual technologies
 
