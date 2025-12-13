@@ -249,9 +249,18 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
    * Must have under a decade later
 
  #### Part 2 | Advancedd Handhelds
- * Advanced :
-   * Game Boy Advance - Capabilities similar to SNES -> many ports of SNES classics
-   * PlayStation Portable (PSP) - antithesis of Nintendo's technological approach
+* Advanced :
+  * Game Boy Advance - Capabilities similar to SNES -> many ports of SNES classics
+  * PlayStation Portable (PSP) - antithesis of Nintendo's technological approach
+* Nintendo DS (Dual Screen) :
+  * upper one for Display
+  * Bottom one for intuitive touch controls
+* PlayStation Vita :
+  * absolute powerhouse
+  * Nintendo's successor (3)DS sold 45 million units over a similar timeframe
+* Nintendo Switch :
+  * Only PSP could reasonably called a succes
+  * DS - Nintendo's greatest Triumph
 
 ## Visual technologies
 
