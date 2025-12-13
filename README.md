@@ -243,6 +243,15 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
 * Library :
   * Both Game Gear and lynx had good games
   * couldn't compete with quality and quantity of Game Boy software
+  * Neither made a significant impact
+ * Pokemon :
+   * Turned the Game Boy
+   * Must have under a decade later
+
+ #### Part 2 | Advancedd Handhelds
+ * Advanced :
+   * Game Boy Advance - Capabilities similar to SNES -> many ports of SNES classics
+   * PlayStation Portable (PSP) - antithesis of Nintendo's technological approach
 
 ## Visual technologies
 
