@@ -381,7 +381,17 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
 * Switching cost :
   * invest in WoW, Not transferable to a new game
 * Network Effects :
-  *  
+  * More people -> better
+  * Rich community -> harder game and harder to leave
+* Marketing :
+  * as quickly and broadly as possible
+  * extremely aggressively
+* Connect :
+  * first MMO to run smooth
+* New player :
+  * switching costs are weakest right when a new player signs up
+  * lots of people played -> lots of people stuck around
+* Aggressive content updaate schedule - most aggressive for an MMO ever
 
 ## Visual technologies
 
