@@ -505,7 +505,34 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
   * Secured to bring the league to TV's everywhere
   * Debut of multicategory sponsorships across industries
   * Portions of revenues were shared back with team owners to create recurring league-driven income
+* Sports :
+  * Need for franchises to give credibility to their new leauge
+  * Many teams were backed by traditional sports owners
+* New Media :
+  * advertising and assets
+  * two new ways to earn money
+  * esports were true sports and could make money for the first time
+  * OWL - one of the most important developments in all of modern esports
+  * esports transformed into media
+* Titan 2.0 Issue :
+  * Underlying games must be designed to become media
+  * overwatch lacked watchability - not designed to be spectator-driven
+* OWL Legacy :
+  * introduce permanent, franchise-based models
+  * Riot Games launched 8 franchises - Expanded quickly after
+  * more and more publishers transform their games into media
 
+#### Part 4 | Teams
+* Early formation :
+  * teams began to matter more as esports prizing created into the thousands of dollars
+* Slow start :
+  * top esports teams could be bought and sold for almost nothing
+  * Late 2015 - Top teams could be purchased for $1 million
+  * many big-name players still struggled to earn minimum wage
+* Win = Profit :
+  * defensible asset as prize to selling franchises
+  * Up until franchising - pro teams had two primary sources of revenue, both depended on winning
+* 
 
 ## Visual technologies
 
