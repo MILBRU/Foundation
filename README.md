@@ -532,7 +532,12 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
 * Win = Profit :
   * defensible asset as prize to selling franchises
   * Up until franchising - pro teams had two primary sources of revenue, both depended on winning
-* 
+* Assets :
+  * Teams are only as good as their current roster
+  * Teams have a defensible long-term asset, that being a franchise
+  * Comes with the ability to sell sponsorships, tickets and merchandizing in their locality
+  * Pro teams can also own assets
+  * value of esports teams exploded in 2018
 
 ## Visual technologies
 
