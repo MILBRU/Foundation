@@ -10,6 +10,10 @@ Table of contents
   * Console Wars
   * Rise of Sony - Playstation
   * Enter Microsoft
+  * Handhelds
+  * Esports - P1
+  * Esports - P2
+  * Esports - P3
 * Visual technologies
 * Art history
 
@@ -393,6 +397,7 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
   * lots of people played -> lots of people stuck around
 * Aggressive content updaate schedule - most aggressive for an MMO ever
   * Blizzard mastered the **subscription** and **monetization** model
+
 ### Esports - P2
 #### Part 1 | Twitch
 * Justin.tv :
@@ -474,7 +479,17 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
   * Closed ecosystem
   * First esports league to introduce premium production to the west
   * True pro structure
-
+* Franchise :
+  * introduced many **first-time innovations**
+  * Blizzard created a **closed league**
+  * tied to city geographies
+  * owners were contractually required to establish stadia and training facilities
+  * esports had **home teams**
+* More :
+  * Broadcast rights and global sponsorships carved out for league-level sales
+  * Secured to bring the league to TV's everywhere
+  * Debut of multicategory sponsorships across industries
+  * Portions of revenues were shared back with team owners to create recurring league-driven income
 #### Part 3 | Entertainment First
 * Project Titan :
   * Overwatch
