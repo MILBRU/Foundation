@@ -539,6 +539,11 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
   * Pro teams can also own assets
   * value of esports teams exploded in 2018
 
+### Esports - P3
+#### Part 1 | WIP
+* ...
+
+
 ## Visual technologies
 
 Notes and references on display technologies (oscilloscopes, vector displays, raster CRTs, early raster graphics hardware), input devices, and rendering techniques that shaped early game development.
