@@ -479,6 +479,16 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
   * Closed ecosystem
   * First esports league to introduce premium production to the west
   * True pro structure
+
+#### Part 3 | Entertainment First
+* Project Titan :
+  * Overwatch
+  * Hero Shooter
+* GFP - Game-First Paradigm :
+  * drive sales of the game behind the sport
+  * esports are effectively a marketing expense
+  * extensions of the blades or microtransaction revenue models
+* EFP - Entertainment-First Paradigm
 * Franchise :
   * introduced many **first-time innovations**
   * Blizzard created a **closed league**
@@ -490,15 +500,7 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
   * Secured to bring the league to TV's everywhere
   * Debut of multicategory sponsorships across industries
   * Portions of revenues were shared back with team owners to create recurring league-driven income
-#### Part 3 | Entertainment First
-* Project Titan :
-  * Overwatch
-  * Hero Shooter
-* GFP - Game-First Paradigm :
-  * drive sales of the game behind the sport
-  * esports are effectively a marketing expense
-  * extensions of the blades or microtransaction revenue models
-* EFP - Entertainment-First Paradigm
+
 
 ## Visual technologies
 
