@@ -488,7 +488,12 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
   * drive sales of the game behind the sport
   * esports are effectively a marketing expense
   * extensions of the blades or microtransaction revenue models
-* EFP - Entertainment-First Paradigm
+* EFP - Entertainment-First Paradigm :
+  * selling games and entertainment
+  * Esports are a standalone business capble of generating revenues in and of themselves
+  * exist first as media properties - selling frachises, sponsorships, broadcasting rights, ...
+  * Introduction of OWL - OverWatch League
+  * first-ever esports franchise sales pitch as result
 * Franchise :
   * introduced many **first-time innovations**
   * Blizzard created a **closed league**
