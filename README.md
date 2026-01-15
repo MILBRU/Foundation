@@ -8,12 +8,12 @@ Table of contents
 * Game history
   * Press Start — Video Games
   * Console Wars
-  * Rise of Sony - Playstation
+  * Rise of Sony — Playstation
   * Enter Microsoft
   * Handhelds
-  * Esports - P1
-  * Esports - P2
-  * Esports - P3
+  * Esports — P1
+  * Esports — P2
+  * Esports — P3
 * Visual technologies
 * Art history
 
