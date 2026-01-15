@@ -342,7 +342,7 @@ PS2 Launched in 2000, the PS2 initially lagged behind rivals but soon thrived as
 * Flippers : introduced the ideas of control
 * Skill :
   * SCAR factors :
-    * Skil
+    * Skill
     * Community
     * Accessibility
     * Reward
